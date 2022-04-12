@@ -22,4 +22,16 @@ QazEd.tech is an educational technology holding company focused on improving the
 - Source code at: [GitHub](https://github.com/nippon-dev/QazEd.tech).
 - Original starter by: [Charlie Hield](https://github.com/stursby).
 - Developed by: [Kevin Matsunaga](https://kevinmatsunaga.com) for [Nippon Edge](https://nippon.dev).
+
+<h4 align="center">
+	Website Design by:
+    <br>
+  <br>
+  <a target="_blank" href="https://nippon.dev"><img src="https://res.cloudinary.com/shinkirin/image/upload/v1649676801/kevin-matsunaga/nippon-edgeLogo.webp" alt="Nippon Edge logo" height="140"></a>
+</h4>
+
+## Netlify Badge
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/320bcc8a-5c94-440a-b42d-b203a847fe60/deploy-status)](https://app.netlify.com/sites/qazedtech/deploys)
+
 # QazEd.tech
